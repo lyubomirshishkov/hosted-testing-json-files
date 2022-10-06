@@ -1,0 +1,9 @@
+{ 
+    "Data": [
+        {
+            "VariantId": "12c06a42-df56-4311-8a3f-7e82b552ca38",
+            "TrafficPercent": 100,
+            "SSPIds": [5, 6, 15, 20, 30, 40, 145]
+        }
+    ]
+}
