@@ -1,26 +1,4 @@
 {
-    "pubmaticS2S": {
-        "supportsParallelBidding": true,
-        "clientSideBidder": "pubmatic"
-    },
-    "ixS2S": {
-        "supportsParallelBidding": true,
-        "clientSideBidder": "ix"
-    }
-}
-{
-    "6": "ix",
-    "145": "appnexus",
-    "215": "rubicon",
-    "230": "amazon",
-    "249": "criteo",
-    "271": "improvedigital",
-    "278": "sharethrough",
-    "287": "onemobile",
-    "292": "onetag",
-    "308": "triplelift"
-}
-{
     "Data": [
         {
             "VariantId": "without-amazon-and-s2s",
