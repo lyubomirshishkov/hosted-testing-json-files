@@ -1,0 +1,46 @@
+{
+    "pubmaticS2S": {
+        "supportsParallelBidding": true,
+        "clientSideBidder": "pubmatic"
+    },
+    "ixS2S": {
+        "supportsParallelBidding": true,
+        "clientSideBidder": "ix"
+    }
+}
+{
+    "6": "ix",
+    "145": "appnexus",
+    "215": "rubicon",
+    "230": "amazon",
+    "249": "criteo",
+    "271": "improvedigital",
+    "278": "sharethrough",
+    "287": "onemobile",
+    "292": "onetag",
+    "308": "triplelift"
+}
+{
+    "Data": [
+        {
+            "VariantId": "without-amazon-and-s2s",
+            "TrafficPercent": 25,
+            "SSPIds": [215, 6, 145, 292]
+        },
+        {
+            "VariantId": "without-s2s",
+            "TrafficPercent": 25,
+            "SSPIds": [215, 6, 145, 292, 230]
+        },
+        {
+            "VariantId": "without-amazon-and-s2s-enabled",
+            "TrafficPercent": 25,
+            "SSPIds": [308, 287, 278, 249, -1]
+        },
+        {
+            "VariantId": "both-amazon-and-s2s-enabled",
+            "TrafficPercent": 25,
+            "SSPIds": [230, 308, 287, 278, 249, -1]
+        }
+    ]
+}
