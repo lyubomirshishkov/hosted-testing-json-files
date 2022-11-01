@@ -3,12 +3,12 @@
         {
             "VariantId": "5abd4adc-74e1-4054-8923-7d384ca08818",
             "TrafficPercent": 20,
-            "SSPIds": [215, 6, 145, 292]
+            "SSPIds": [215, 6, 145, 292, 287]
         },
         {
             "VariantId": "d26344bd-ce9e-404a-827b-50f999532c15",
             "TrafficPercent": 25,
-            "SSPIds": [215, 6, 145, 292, 230]
+            "SSPIds": [215, 6, 145, 292, 230, 278]
         },
         {
             "VariantId": "d927323c-5164-11ed-bdc3-0242ac120012",
