@@ -1,0 +1,34 @@
+{
+"Data": [
+{
+"VariantId": "5abd4adc-74e1-4054-8923-7d384ca08809",
+"TrafficPercent": 33,
+"SSPIds": [
+145,
+292,
+215,
+6
+]
+},
+{
+"VariantId": "d26344bd-ce9e-404a-827b-50f999532c46",
+"TrafficPercent":50,
+"SSPIds": [
+215,
+6,
+145,
+292,
+230
+]
+},
+{
+"VariantId": "d927323c-5164-11ed-bdc3-0242ac120003",
+"TrafficPercent": 17,
+"SSPIds": [
+308,
+287,
+278,
+249,
+-1
+]
+}
