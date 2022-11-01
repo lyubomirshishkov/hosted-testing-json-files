@@ -5,6 +5,8 @@
             "TrafficPercent": 60,
             "SSPIds": [
                 145,
+                304,
+                308,
                 292,
                 215,
                 6
@@ -15,6 +17,7 @@
             "TrafficPercent": 40,
             "SSPIds": [
                 215,
+                308,
                 6,
                 145,
                 292,
