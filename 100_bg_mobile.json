@@ -23,7 +23,7 @@
       {
             "VariantId": "e636cc8a-5164-11ed-bdc3-0242ac130013",
             "TrafficPercent": 15,
-            "SSPIds": [230, 308, 287, 278, 249, -1]
+            "SSPIds": [230, 308, 249, -1]
         }
     ]
 }
