@@ -1,0 +1,42 @@
+{
+	"Data": [
+		{
+			"VariantId": "5abd4adc-74e1-4054-8923-7d384ca08808",
+			"TrafficPercent": 10,
+			"SSPIds": [
+				215,
+				6,
+				145,
+				292
+			]
+		},
+		{
+			"VariantId": "d26344bd-ce9e-404a-827b-50f999532c45",
+			"TrafficPercent": 80,
+			"SSPIds": []
+		},
+		{
+			"VariantId": "d927323c-5164-11ed-bdc3-0242ac120002",
+			"TrafficPercent": 5,
+			"SSPIds": [
+				308,
+				287,
+				278,
+				249,
+				-1
+			]
+		},
+		{
+			"VariantId": "e636cc8a-5164-11ed-bdc3-0242ac120002",
+			"TrafficPercent": 5,
+			"SSPIds": [
+				230,
+				308,
+				287,
+				278,
+				249,
+				-1
+			]
+		}
+	]
+}
