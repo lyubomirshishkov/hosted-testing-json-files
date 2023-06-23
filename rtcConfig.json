@@ -4,18 +4,18 @@
       "vendors": {
         "aps": {
           "PUB_ID": "600",
-          "PUB_UUID": "6d0c7ea7-f036-437d-be93-21fc59c890c2",
+          "PUB_UUID": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1",
           "PARAMS": {
             "amp": "1"
           }
         },
         "IndexExchange": {
-          "SITE_ID": "986907"
+          "SITE_ID": "111111"
         },
         "criteo": {
-          "NETWORK_ID": "8347",
-          "ZONE_ID": "1756019",
-          "PUBLISHER_SUB_ID": "/8095840/.2_A.39997.5_wccftech.com_tier1"
+          "NETWORK_ID": "1111",
+          "ZONE_ID": "1111111",
+          "PUBLISHER_SUB_ID": "/12345678/ad_unit_code"
         }
       }
     },
@@ -23,18 +23,18 @@
       "vendors": {
         "aps": {
           "PUB_ID": "600",
-          "PUB_UUID": "6d0c7ea7-f036-437d-be93-21fc59c890c2",
+          "PUB_UUID": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1",
           "PARAMS": {
             "amp": "1"
           }
         },
         "IndexExchange": {
-          "SITE_ID": "986907"
+          "SITE_ID": "111111"
         },
         "criteo": {
-          "NETWORK_ID": "8347",
-          "ZONE_ID": "1507657",
-          "PUBLISHER_SUB_ID": "/8095840/.2_A.39999.4_wccftech.com_tier1"
+          "NETWORK_ID": "1111",
+          "ZONE_ID": "1111111",
+          "PUBLISHER_SUB_ID": "/12345678/ad_unit_code"
         }
       }
     },
@@ -42,18 +42,18 @@
       "vendors": {
         "aps": {
           "PUB_ID": "600",
-          "PUB_UUID": "6d0c7ea7-f036-437d-be93-21fc59c890c2",
+          "PUB_UUID": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1",
           "PARAMS": {
             "amp": "1"
           }
         },
         "IndexExchange": {
-          "SITE_ID": "986907"
+          "SITE_ID": "111111"
         },
         "criteo": {
-          "NETWORK_ID": "8347",
-          "ZONE_ID": "1507657",
-          "PUBLISHER_SUB_ID": "/8095840/.2_A.40003.4_wccftech.com_tier1"
+          "NETWORK_ID": "1111",
+          "ZONE_ID": "1111111",
+          "PUBLISHER_SUB_ID": "/12345678/ad_unit_code"
         }
       }
     },
@@ -61,18 +61,18 @@
       "vendors": {
         "aps": {
           "PUB_ID": "600",
-          "PUB_UUID": "6d0c7ea7-f036-437d-be93-21fc59c890c2",
+          "PUB_UUID": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1",
           "PARAMS": {
             "amp": "1"
           }
         },
         "IndexExchange": {
-          "SITE_ID": "986907"
+          "SITE_ID": "111111"
         },
         "criteo": {
-          "NETWORK_ID": "8347",
-          "ZONE_ID": "1756019",
-          "PUBLISHER_SUB_ID": "/8095840/.2_A.40004.5_wccftech.com_tier1"
+          "NETWORK_ID": "1111",
+          "ZONE_ID": "1111111",
+          "PUBLISHER_SUB_ID": "/12345678/ad_unit_code"
         }
       }
     }
